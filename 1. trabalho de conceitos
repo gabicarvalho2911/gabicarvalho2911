@@ -1,0 +1,30 @@
+Gabriella Carvalho
+Trabalho de Conceitos - Programação e Direito.
+
+Conceitos
+1. Nuvem: 
+A definição de nuvem pode parecer obscura, mas, basicamente, é um termo utilizado para descrever uma rede global de servidores, cada um com uma função única. A nuvem não é uma entidade física, mas uma vasta rede de servidores remotos ao redor do globo que são conectados e operam como um único ecossistema. Esses servidores são responsáveis por armazenar e gerenciar dados, executar aplicativos e fornecer conteúdos ou serviços, como transmissão de vídeos, webmail, software de produtividade ou mídias sociais. Em vez de acessar arquivos e dados do local ou de um PC, você pode acessá-los online, de qualquer dispositivo com acesso à Internet. As informações estarão disponíveis em praticamente qualquer lugar, a qualquer hora.
+As empresas utilizam quatro métodos diferentes para implantar recursos de nuvem. Há a nuvem pública, que compartilha recursos e oferece serviços ao público em geral da Internet, a  nuvem privada , que não é compartilhada e oferece serviços em uma rede interna privada (geralmente hospedada localmente), a nuvem híbrida , que compartilha serviços entre nuvens públicas e privadas de acordo com seu propósito, e a nuvem de comunidade, que compartilha recursos apenas entre organizações, como instituições governamentais.
+fonte: https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-the-cloud/#:~:text=A%20defini%C3%A7%C3%A3o%20de%20nuvem%20pode,operam%20como%20um%20%C3%BAnico%20ecossistema.
+
+2. Banco de Dados:
+O banco de dados é a organização e armazenagem de informações sobre um domínio específico. De forma mais simples, é o agrupamento de dados que tratam do mesmo assunto, e que precisam ser armazenados para segurança ou conferência futura. 
+É comum que empresas tenham diversas informações que precisam ser organizadas e disponibilizadas dentro do negócio para que sejam consultadas posteriormente pela equipe e pela gerência.
+Por isso, é interessante ter um sistema de gerenciamento de banco de dados, SGBD, para conseguir manipular as informações e tornar a rotina da empresa muito mais simples.
+fonte: https://rockcontent.com/br/blog/banco-de-dados/
+
+3. Jurimetria:
+A jurimetria é a estatística aplicada do Direito. Segundo a Associação Brasileira de Jurimetria (ABJ), ela se conceitua como a disciplina resultante da aplicação de modelos estatísticos para compreensão dos processos e fatos jurídicos.  
+Assim, a partir dos dados gerados pelo Poder Judiciário, que são coletados e analisados por meio de métodos matemáticos e estatísticos, é possível quantificar as demandas e determinar padrões.Considerada como uma área que se dedica ao estudo e compreensão da aplicação da doutrina e da jurisprudência, a jurimetria permite prever cenários e traçar as probabilidades de resultados para cada um deles.
+fonte: https://blog.saraivaeducacao.com.br/jurimetria/
+
+4. Algoritmo:
+A definição do que é algoritmo é a seguinte: algoritmo é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema. Traduzindo, ele é uma receita que mostra passo a passo os procedimentos necessários para a realização de uma tarefa. 
+Embora o termo tenha 24 milhões de resultados numa simples busca no Google e seja tido como um conceito atual, ele é mais antigo do que imaginamos. 
+Aliás, os povos antigos já o usavam. Para se ter uma ideia, o termo algoritmo é uma palavra latinizada que se derivou do nome do matemático árabe Al-Khowarizmi, no século IX. Os algoritmos surgiram, no passado, diante da necessidade de fazer cálculos sem a ajuda de recursos, como o ábaco ou os dedos, por exemplo. 
+fonte: https://coodesh.com/blog/dicionario/o-que-e-algoritmo/#:~:text=A%20defini%C3%A7%C3%A3o%20do%20que%20%C3%A9,a%20realiza%C3%A7%C3%A3o%20de%20uma%20tarefa.
+
+5. Zero-rating:
+Zero-rating refere-se a uma série de estratégias comerciais desenvolvidas por operadoras em parceria com provedores de aplicações que visam oferecer gratuidade no tráfego de dados para determinada aplicação e serviço específico - em outras palavras, trata-se de um modelo de negócio no qual a operadora, após o cliente esgotar sua franquia de dados, permite que ele continue usando um determinado serviço, sem custos.
+Na visão atualmente majoritária da academia, estratégias de zero-rating têm entrado diretamente em conflito com a neutralidade da rede, princípio de arquitetura de rede que endereça a provedores de acesso o dever de tratar os pacotes de dados que trafegam em suas redes de forma isonômica, não os discriminando em razão de seu conteúdo ou origem. Planos de zero-rating, ao permitir que determinadas aplicações trafeguem de forma gratuita e que outras sejam bloqueadas ao término da franquia, feririam essa isonomia, fortalecendo, no caso dos provedores de acesso, seu papel de gatekeepers da rede, com a capacidade de escolher quais conteúdos serão ou não disponíveis para usuários de forma diferenciada.
+fonte: https://politics.org.br/edicoes/zero-rating-uma-introdu%C3%A7%C3%A3o-ao-debate
