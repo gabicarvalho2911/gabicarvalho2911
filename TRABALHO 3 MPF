@@ -1,0 +1,78 @@
+3- "MPF investiga se algoritmo do INSS nega aposentadoria sem análise de mérito". A definição de Neil Patel Brasil da palavra algoritmo é: "de
+forma simples, é um conjunto de instruções que determinam a sequência de operações a serem realizadas por um computador. Ele está por trás de todos
+os processos executados pelo nosso querido amigo eletrônico e tem a capacidade de resolver problemas complexos em fração de segundos. Ou seja, 
+um algoritmo é a base para a programação de computadores. Como já mencionado, os algoritmos são responsáveis por resolver problemas. Para isso,
+eles utilizam uma entrada (DADOS fornecidos pelo usuário), e, a partir dela, processam esses dados para fornecer uma saída(resultado do problema). 
+Por isso, podemos dizer que os algoritmos são como fórmulas matemáticas: recebem um conjunto de números e/ou variáveis e, a partir daí encontram 
+o resultado. Apesar de toda sua complexidade, é importante lembrar que os algoritmos são costruídos por seres humanos e, como tal, podem conter 
+erros. Por isso,é fundamental testá-los antes de colocá-los em prática." 
+Dessa forma, entendemos que, um algoritmo foi algo criado pelos próprios seres humanos, a partir da informação fornecida por quem o produziu, 
+assim como nós, pode conter vícios ou erros. Contudo, a investigação sobre uma possível falha nessa análise feita pelo algoritmo do INSS é 
+extremamente necessária e adequada, para que esse processo seja justo e correto com todos aqueles que participam do mesmo. Por fim, essa
+investigação foi aberta a partir da denúncia de um cidadão indicando possíveis irregularidades na negativa de requerimentos de benefícios previ-
+denciários e assistenciais supostamente causada por um sistema automatizado, que não estaria observando o mérito de forma adequ
+
+Referências: 
+- https://bxblue.com.br/aprenda/robo-do-inss/
+- https://olhardigital.com.br/2022/07/05/internet-e-redes-sociais/o-que-e-algoritmo/
+- https://politicalivre.com.br/2023/03/mpf-investiga-se-algoritmo-do-inss-nega-aposentadorias-sem-analise-de-merito/#gsc.tab=0
+- https://blogdacidadania.com.br/2023/03/computadores-do-inss-estariam-programados-para-negar-aposentadorias/
+- IEPREV - Análise automática de benefícios do INSS por robô falha, diz sindicato. 
+
+4- "Análise de crédito pode usar algoritmos?"
+Sim, a análise de crédito pode sim usar algoritmos, e se beneficiar do uso de algoritmos. As instituições estão utilizando essa forma de
+análise por inteligência artificial desde a década passada, e o sistema está cada vez mais atualizado e eficiente. Por exemplo, como citado no 
+1o artigo de referência, "uma campanha de renegociação do Banco do Brasil através do WhatsApp recuperou R$ 78 milhões em créditos. A conclusão 
+foi de que em situações em que o cliente se sente desconfortável em falar com outra pessoa, o robô, alimentado pela inteligência artificial, é 
+mais eficaz." 
+Atualmente, o algoritmo que mais promete é o Deep Learning, de acordo com o blog neoway, "O Deep Learning para análise de crédito é a nova 
+estratégia de instituições financeiras para diminuir os riscos deste tipo de operação.
+Por meio deste tipo ultra avançado de Inteligência Artificial, é possível determinar qual perfil de cliente pode receber o empréstimo e qual 
+oferece mais riscos à empresa. Vale lembrar que toda transação financeira envolve algum nível de risco e com a concessão de crédito não é 
+diferente. De acordo com o Serviço de Proteção de Crédito (SPC), o Brasil abriu 2020 com 61 milhões de pessoas inadimplentes.
+Nesse sentido, uma profunda análise de crédito tem papel fundamental para a redução dos riscos, como a inadimplência, e também para evitar 
+fraudes e melhorar a gestão por parte das empresas."
+No entanto, a negativa de crédito levanta uma questão ética importante. Em muitos países, a recusa de crédito deve ser justificada ao 
+solicitante, com base em critérios específicos, para evitar discriminação injusta. Leis de proteção ao consumidor e regulamentações financeiras
+como o Regulamento Geral de Proteção de Dados (RGPD) na Europa, podem ser referências relevantes ao abordar a justificativa da negativa de
+crédito. Essa questão também pode ser discutida em disciplinas relacionadas à ética nos negócios e ao direito financeiro.
+
+Referências: 
+- https://rockcontent.com/br/blog/deep-learning/
+- https://cnf.org.br/a-analise-de-credito-sera-um-algoritmo-e-a-inteligencia-artificial-vai-ajudar/
+- http://broadcast.com.br/cadernos/financeiro/?id=UFhOemtlbXorZWNmKytvTmdya1RaZz09
+
+"Negativa de crédito precisa ser justificada?"
+A resposta é sim. No Rio de Janeiro, a Lei 2.868/1997 dita que:"Obriga as empresas que promovem vendas a crédito a fornecer por escrito, as
+razões do indeferimento dos pedidos de financiamento, bem como recibo pelas cobranças de taxas de levantamentos efetuados." 
+Embora nenhuma instituição financeira seja obrigada a fornecer crédito ao consumidor, ela tem a obrigação de justificar a negativa de prestação
+do serviço.
+Segundo a Associação, o CDC (Código de Defesa do Consumidor), em seu artigo 43, obriga a prévia notificação sobre a existência de registro
+em cadastro e estipula que o consumidor deve ter acesso a esse banco de informações sobre ele com explicações claras e precisas quanto aos 
+critérios considerados para avaliá-lo negativamente.
+
+Referências: 
+- https://www.proteste.org.br/dinheiro/emprestimo-consorcio-e-financiamento/noticia/teve-o-credito-negado-voce-deve-ser-informado-sobre-o-motivo
+- https://www.infomoney.com.br/minhas-financas/consumidor-deve-ser-informado-sobre-motivo-da-negativa-de-credito/
+- https://www.jusbrasil.com.br/legislacao/90592/lei-2868-97
+
+5- Explique o termo com referências: 
+* Rede Neural Artificial: 
+A definição de Rede Neural Artifical, de acordo com o grupo Redação XP Educação: "Basicamente, as redes neurais artificiais são sistemas 
+computacionais interconectados por nós que trabalham o processamento dos dados da mesma maneira do cérebro humano. Elas são um dos métodos de 
+Inteligência Artificial, a ciência da computação que desenvolve sistemas capazes de agir igual aos humanos." Uma explicação mais profunda, dada
+pela International Business Machines Corporation, é: "são um subconjunto de machine learning  e estão no cerne dos algoritmos de deep learning.
+Seu nome e estrutura são inspirados no cérebro humano, imitando a maneira como os neurônios biológicos enviam sinais uns para os outros.
+As redes neurais artificiais (ANNs) são compostas por camadas de um nó, contendo uma camada de entrada, uma ou mais camadas ocultas e uma 
+camada de saída. Cada nó, ou neurônio artificial, conecta-se a outro e tem um peso e um limite associados. Se a saída de qualquer nó individual
+estiver acima do valor do limite especificado, esse nó será ativado, enviando dados para a próxima camada da rede. Caso contrário, nenhum dado 
+será transmitido junto à próxima camada da rede.
+As redes neurais contam com dados de treinamento para aprender e melhorar sua precisão ao longo do tempo. No entanto, uma vez que esses
+algoritmos de aprendizagem são ajustados para aumentar a precisão, eles se tornam ferramentas poderosas de ciência da computação e  
+inteligência artificial, permitindo-nos classificar e agrupar dados a uma alta velocidade. As tarefas de reconhecimento de fala ou reconheci-
+mento de imagem podem levar minutos em vez horas, quando comparadas com a identificação manual feita por especialistas humanos. Uma das redes
+neurais mais conhecidas é o algoritmo de procura do Google."
+
+Referências: 
+- https://www.ibm.com/br-pt/topics/neural-networks
+-https://blog.kalatec.com.br/redes-neurais/ 
